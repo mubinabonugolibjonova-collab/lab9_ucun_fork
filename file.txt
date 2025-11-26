@@ -1,8 +1,8 @@
-<<<<<<< HEAD
-# lab9_ucun
-# lab9_ucun
 
 =======
 Dilmurod Tuxtanazarov
+<<<<<<< HEAD
 >>>>>>> upstream/main
 Jahongir Abdurahimov
+=======
+Jamshidbek Qodirov
